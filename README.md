@@ -20,7 +20,7 @@
 </p>
 
 ### Stats
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurdin73&hide=contribs,prs&show_icons=true&theme=nightowl" /> <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdin73&show_icons=true&theme=nightowl&layout=compact" />
 </p>
