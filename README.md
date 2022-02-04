@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Framework-Laravel-red?&logo=laravel" />
     <img src="https://img.shields.io/badge/Code-NodeJS-blue?&logo=NodeJS" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/nurdin73" />
 </p>
 
 ### Stats
