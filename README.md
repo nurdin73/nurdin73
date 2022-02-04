@@ -1,5 +1,14 @@
 ### Hi there 👋, i'm Nurdin
-currently i am web developer from Indonesian. i working with stack technology PHP
+
+- 🔭 I’m currently working on PT Tele global indo
+- 🌱 I’m currently learning laravel, NodeJS
+- 👯 I’m looking to collaborate on Web development
+- 🤔 I’m looking for help with laravel developer
+- 💬 Ask me about laravel development
+- 📫 How to reach me: <a href="mailto:nurdin.reverse73@gmail.com">Email me!</a>  </br>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: fast learner but also bored quickly 
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-red?logo=linux" />
@@ -11,23 +20,11 @@ currently i am web developer from Indonesian. i working with stack technology PH
     <img src="https://gpvc.arturio.dev/nurdin73" />
 </p>
 
-###Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nurdin73&hide=contribs,prs&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdin73&show_icons=true&theme=radical" height=180 />
+### Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nurdin73&hide=contribs,prs&show_icons=true&theme=nightowl" /> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdin73&show_icons=true&theme=nightowl&layout=compact" />
 </p>
 
-<!--
-**nurdin73/nurdin73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
