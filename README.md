@@ -19,11 +19,5 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nurdin73&hide=contribs,prs&show_icons=true&theme=nightowl" /> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdin73&show_icons=true&theme=nightowl&layout=compact" />
-</p>
-
 
 
