@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Nurdin
 
-- 🔭 I’m currently working on PT Tele global indo
+- 🔭 I’m currently working on PT Qtasnim
 - 🌱 I’m currently learning laravel, NodeJS
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with laravel developer
