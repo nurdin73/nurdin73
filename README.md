@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Nurdin
 
-- 🔭 I’m currently working on PT Qtasnim
+- 🔭 I’m currently working on PT Qtasnim Digital Technologi
 - 🌱 I’m currently learning laravel, NodeJS, and React JS
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with laravel developer
